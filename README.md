@@ -1,6 +1,7 @@
 # WinniLinkRelease
-  Tool to easily manage links and different browser.
-
+  Tool to easily manage links and different browser.  
+  Tested and working on Windows 10 (Professional - 64Bit).  
+  Fully written in AutoIt.  
 
 # Preview
 <p align="center">
