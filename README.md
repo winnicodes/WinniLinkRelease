@@ -1,7 +1,9 @@
 # WinniLink
-  Tool to easily manage links and different browser.  
-  Tested and working on Windows 10 (Professional - 64Bit).  
-  Fully written in AutoIt.  
+<p align="center">
+  Tool to easily manage links and different browser.
+  Tested and working on Windows 10 (Professional - 64Bit).
+  Fully written in AutoIt.
+</p>
 
 # Preview
 <p align="center">
@@ -39,4 +41,10 @@
   <br>
   Menu Interface
 </p>
-<br>
+<br>  
+
+
+# Download
+<p align="center">
+<a class="github-button" href="https://github.com/winnicodes/WinniLinkRelease/releases" data-icon="octicon-download" aria-label="Download winnicodes/WinniLinkRelease on GitHub">Download WinniLink</a>
+  </p>
