@@ -1,7 +1,7 @@
 # WinniLink
 <p align="center">
-  Tool to easily manage links and different browser.
-  Tested and working on Windows 10 (Professional - 64Bit).
+  Tool to easily manage links and different browser. <br>
+  Tested and working on Windows 10 (Professional - 64Bit). <br>
   Fully written in AutoIt.
 </p>
 
